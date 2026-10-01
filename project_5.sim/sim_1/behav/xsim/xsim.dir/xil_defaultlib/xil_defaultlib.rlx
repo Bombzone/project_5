@@ -1,8 +1,0 @@
-0.7
-2020.2
-Nov 14 2025
-19:37:27
-C:/Users/ryanm/Documents/GitHub/project_5/project_5.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
-C:/Users/ryanm/Documents/GitHub/project_5/project_5.srcs/sim_1/imports/lab5/test.v,1790696277,verilog,,,,test,,,../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
-C:/Users/ryanm/Documents/GitHub/project_5/project_5.srcs/sources_1/imports/lab5/circuit_a.v,1790699516,verilog,,C:/Users/ryanm/Documents/GitHub/project_5/project_5.srcs/sources_1/imports/lab5/circuit_b.v,,circuit_a,,,../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
-C:/Users/ryanm/Documents/GitHub/project_5/project_5.srcs/sources_1/imports/lab5/circuit_b.v,1790699614,verilog,,C:/Users/ryanm/Documents/GitHub/project_5/project_5.srcs/sim_1/imports/lab5/test.v,,circuit_b,,,../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
